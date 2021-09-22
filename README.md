@@ -5,7 +5,7 @@ Useful Python Code, Readme's, and Idioms to use
 ## Useful Features:
 ### Regular Expressions:
 Regular Expressions, or RegEx are not built into python naturally... import re
-
+"
 Python Regular Expression Quick Guide:
 ^        Matches the beginning of a line
 $        Matches the end of the line
@@ -21,7 +21,7 @@ $        Matches the end of the line
 [a-z0-9] The set of characters can include a range
 (        Indicates where string extraction is to start
 )        Indicates where string extraction is to end
-
+"
 
 can re.search() to see if a string matches a regular expression, similar to find() method for strings
 
