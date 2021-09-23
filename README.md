@@ -10,6 +10,9 @@ You can store lists of lists (of lists of lists of lists.....), allowing for com
 #### Syntax:
 listname = [item, item2, item3, item, ...]
 
+#### Idiom: Multiple Assignment / Tuple Unpacking:
+cat = ['fat', 'gray', 'loud']  
+size, color, disposition = cat (assigns multiple values rapidly)
 
 #### Methods:
 ['\_\_add__', '\_\_class__', '\_\_contains__', '\_\_delattr__', '\_\_delitem__', '\_\_dir__', '\_\_doc__', '\_\_eq__', '\_\_format\_\_', '\_\_ge__', '\_\_getattribute\_\_', '\_\_getitem__', '\_\_gt__', '\_\_hash__', '\_\_iadd__', '\_\_imul__', '\_\_init__', '\_\_init_subclass__', '\_\_iter__', '\_\_le__', '\_\_len__', '\_\_lt__', '\_\_mul__', '\_\_ne__', '\_\_new__', '\_\_reduce__', '\_\_reduce_ex__', '\_\_repr__', '\_\_reversed__', '\_\_rmul__', '\_\_setattr__', '\_\_setitem__', '\_\_sizeof__', '\_\_str__', '\_\_subclasshook__', 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
