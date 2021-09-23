@@ -1,5 +1,5 @@
 # UsefulPython
-Useful Python Code, Readme's, and Idioms to use
+Useful Python Code, Information, and Idioms to use
 
 
 ## Data Types:
